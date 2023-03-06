@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "7e99d6c1768a4035",
+    "type": "split",
+    "children": [
+      {
+        "id": "d35e966e9cfacb84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94bb35cbcbbadfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js手写/手写apply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f5fd305cb3f56a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总结/js基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5e72c6c35cc561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js技巧/数组技巧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3390d4d5bdae4b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总结/js基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d56c825d62fe1e03",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c74e1270f6f40e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a18d906289483e4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b812f8e5cc7196a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ec7b6e8706181af",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "36c816fa59f7389e",
+    "type": "split",
+    "children": [
+      {
+        "id": "42d94a4e58090068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140eda71fa968384",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "js技巧/数组技巧.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3084f07fbf350d27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "js技巧/数组技巧.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82b673651913ba40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a97383136b36fc8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "js技巧/数组技巧.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ef5e72c6c35cc561",
+  "lastOpenFiles": [
+    "总结/js基础.md",
+    "js技巧/工具函数.md",
+    "js手写/手写apply.md",
+    "js技巧/数组技巧.md",
+    "js技巧",
+    "总结",
+    "typescript/ts语法",
+    "typescript/未命名.md",
+    "typescript/ts类型体操",
+    "2023-03-01.md",
+    "js手写",
+    "js高级",
+    "typescript",
+    "react18",
+    "vue3",
+    "开发工具/fnm安装.md",
+    "未命名.canvas",
+    "未命名.md",
+    "开发工具"
+  ]
+}
