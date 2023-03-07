@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js技巧/数组技巧.md",
+                "file": "js技巧/工具函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,11 +173,11 @@
   },
   "active": "ef5e72c6c35cc561",
   "lastOpenFiles": [
-    "Pasted image 20230306164744.png",
-    "js技巧/数组技巧.md",
     "js技巧/工具函数.md",
-    "总结/js基础.md",
+    "js技巧/数组技巧.md",
     "js手写/手写apply.md",
+    "Pasted image 20230306164744.png",
+    "总结/js基础.md",
     "js技巧",
     "总结",
     "typescript/ts语法",
