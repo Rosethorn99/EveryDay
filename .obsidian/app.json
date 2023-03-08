@@ -2,5 +2,7 @@
   "attachmentFolderPath": "/",
   "showFrontmatter": true,
   "strictLineBreaks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "showLineNumber": true
 }
