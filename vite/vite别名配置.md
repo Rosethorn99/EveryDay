@@ -21,9 +21,37 @@
 }
 ```
 
-2.  在 `paths` 对象中添加需要配置的别名，例如上面的代码中添加了三个别名：`@/*`、`components/*`、`utils/*`。其中 `@/*` 表示项目根目录，`src/*` 表示项目中的 `src` 目录。其他别名的配置方法类似。
+2. 在项目根目录下的vite.config.ts文件中添加以下代码:
 
-3.  配置完成后，即可在项目中使用别名来引入模块，例如：
+```json
+//vite.config.ts
+import { defineConfig } from "vite";
+
+import vue from "@vitejs/plugin-vue";
+
+// https://vitejs.dev/config/
+
+export default defineConfig({
+
+  plugins: [vue()],
+
+  resolve: {
+
+    alias: {
+
+      "@": "/src",
+
+    },
+
+  },
+
+});
+```
+
+
+3.  在 `paths` 对象中添加需要配置的别名，例如上面的代码中添加了三个别名：`@/*`、`components/*`、`utils/*`。其中 `@/*` 表示项目根目录，`src/*` 表示项目中的 `src` 目录。其他别名的配置方法类似。
+
+4.  配置完成后，即可在项目中使用别名来引入模块，例如：
 
 ```js
 import App from '@/App.vue'
