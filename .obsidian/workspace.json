@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vite/vite别名配置.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vite/vite别名配置.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vite/vite别名配置.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vite/vite别名配置.md"
+                "file": "typescript/ts语法/实战技巧.md"
               }
             }
           }
@@ -221,11 +221,12 @@
   },
   "active": "1a5d5fd9e01d1302",
   "lastOpenFiles": [
-    "vue/vue3/hooks/usePage初体验.md",
+    "vue/vue2/watch的高级用法.md",
+    "typescript/ts语法/实战技巧.md",
     "vite/vite别名配置.md",
+    "vue/vue3/hooks/usePage初体验.md",
     "vite",
     "vue/vue3/hooks",
-    "vue/vue2/watch的高级用法.md",
     "vue/vue2/vue2基本语法.md",
     "vue/vue高效开发技巧/CSS样式穿透.md",
     "vue/未命名.md",

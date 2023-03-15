@@ -4,5 +4,7 @@
   "strictLineBreaks": true,
   "spellcheck": true,
   "spellcheckLanguages": null,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "tabSize": 2,
+  "showIndentGuide": true
 }
