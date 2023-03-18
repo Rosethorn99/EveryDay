@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "ae3e641da55d70fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/面试题/面试相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "beb1fbcc98dadf16",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/ts类型体操/parseQueryString体操一.md",
+                "file": "vue/面试题/面试相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/ts类型体操/parseQueryString体操一.md",
+                "file": "vue/面试题/面试相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/ts类型体操/parseQueryString体操一.md"
+                "file": "vue/面试题/面试相关.md"
               }
             }
           }
@@ -231,15 +243,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "058ac2b4e1aa5b23",
+  "active": "a18d906289483e4d",
   "lastOpenFiles": [
+    "typescript/ts类型体操/parseQueryString体操一.md",
+    "vue/面试题/面试相关.md",
+    "vue/面试题",
+    "typescript/ts语法/实战技巧.md",
+    "typescript/ts语法/基本语法.md",
     "asstes/images/Pasted image 20230317084537.png",
     "asstes/images/Pasted image 20230317084512.png",
     "asstes/images/Pasted image 20230317084446.png",
     "asstes/images/Pasted image 20230317084409.png",
     "asstes/images/Pasted image 20230317084339.png",
     "asstes/images/Pasted image 20230317084234.png",
-    "typescript/ts类型体操/parseQueryString体操一.md",
     "Pasted image 20230317083716.png",
     "asstes/images",
     "asstes/新建文件夹",
@@ -249,10 +265,7 @@
     "Pasted image 20230317083933.png",
     "Pasted image 20230317083759.png",
     "Pasted image 20230317083748.png",
-    "Pasted image 20230317083745.png",
-    "typescript/ts语法/实战技巧.md",
     "vue/vue高效开发技巧/在vue中使用jsx.md",
-    "typescript/ts语法/基本语法.md",
     "typescript/ts进阶/4. 掌握字面量类型与枚举，让你的类型再精确一些.md",
     "typescript/ts进阶/3. 进入类型的世界：理解原始类型与对象类型.md",
     "typescript/ts进阶/2. 工欲善其事：打造最舒适的 TypeScript 开发环境.md",
@@ -278,7 +291,6 @@
     "typescript/TypeScript 全面进阶指南",
     "vite",
     "vue/vue3/hooks",
-    "vue/vue2",
     "未命名.canvas"
   ]
 }
