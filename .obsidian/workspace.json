@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js手写/手写apply.md",
+                "file": "typescript/ts类型体操/parseQueryString体操一.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,24 +44,60 @@
             }
           },
           {
-            "id": "b29826bfb085df67",
+            "id": "2ca568cca21efbe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/vue3/vue3常用库.md",
+                "file": "vue/vue高效开发技巧/在vue中使用jsx.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ca568cca21efbe7",
+            "id": "581acc7661cf6100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js技巧/工具函数.md",
+                "file": "vue/vue2/watch的高级用法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a5d5fd9e01d1302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/ts语法/实战技巧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "058ac2b4e1aa5b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/ts类型体操/parseQueryString体操一.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae3e641da55d70fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/面试题/面试相关.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,38 +109,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/ts语法/基本语法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b349dd1f206fcd3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue/vue高效开发技巧/路由参数解耦.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47cc227384d02dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue/面试题/面试相关.md",
+                "file": "js技巧/工具函数.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 299.5
   },
   "right": {
     "id": "36c816fa59f7389e",
@@ -170,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/面试题/面试相关.md",
+                "file": "typescript/ts类型体操/parseQueryString体操一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/面试题/面试相关.md",
+                "file": "typescript/ts类型体操/parseQueryString体操一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/面试题/面试相关.md"
+                "file": "typescript/ts类型体操/parseQueryString体操一.md"
               }
             }
           }
@@ -231,51 +242,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47cc227384d02dde",
+  "active": "b94bb35cbcbbadfd",
   "lastOpenFiles": [
-    "js手写/手写apply.md",
-    "js技巧/数组技巧.md",
-    "js技巧/工具函数.md",
+    "asstes/images/Pasted image 20230320085428.png",
+    "asstes/images/Pasted image 20230320085407.png",
+    "asstes/images/Pasted image 20230320085343.png",
+    "asstes/images/Pasted image 20230320085316.png",
+    "asstes/images/Pasted image 20230320085243.png",
+    "asstes/images/Pasted image 20230320085221.png",
+    "asstes/images/Pasted image 20230320085127.png",
+    "asstes/images/Pasted image 20230320085105.png",
+    "asstes/images/Pasted image 20230320084716.png",
+    "asstes/images/Pasted image 20230320084644.png",
+    "asstes/images/Pasted image 20230320084230.png",
+    "typescript/ts类型体操/parseQueryString体操一.md",
     "vue/面试题/面试相关.md",
-    "vite/vite别名配置.md",
+    "js手写/手写apply.md",
     "vue/面试题",
+    "typescript/ts语法/实战技巧.md",
+    "typescript/ts语法/基本语法.md",
+    "asstes/images",
+    "asstes/新建文件夹",
+    "asstes",
+    "images",
+    "新建文件夹",
+    "vue/vue高效开发技巧/在vue中使用jsx.md",
+    "typescript/ts进阶/4. 掌握字面量类型与枚举，让你的类型再精确一些.md",
+    "typescript/ts进阶/3. 进入类型的世界：理解原始类型与对象类型.md",
+    "typescript/ts进阶/2. 工欲善其事：打造最舒适的 TypeScript 开发环境.md",
+    "typescript/ts进阶/1. 开篇：用正确的方式学习 TypeScript.md",
+    "typescript/ts进阶/28. TSConfig 全解（下）：检查相关、工程相关配置.md",
+    "typescript/ts进阶/26. 控制反转与依赖注入：基于装饰器的依赖注入实现.md",
     "typescript/ts进阶/9. 类型编程基石：TypeScript 中无处不在的泛型.md",
     "typescript/ts进阶/8. 类型编程好帮手：TypeScript 类型工具（下）.md",
     "typescript/ts进阶/7. 类型编程好帮手：TypeScript 类型工具（上）.md",
     "typescript/ts进阶/6. 探秘内置类型：any、unknown、never 与类型断言.md",
     "typescript/ts进阶/5. 函数与 Class 中的类型：详解函数重载与面向对象.md",
-    "typescript/ts进阶/4. 掌握字面量类型与枚举，让你的类型再精确一些.md",
     "typescript/ts进阶/33. 漫谈篇：面试中的 TypeScript.md",
     "typescript/ts进阶/32. 感谢相伴：是结束，也是开始.md",
     "typescript/ts进阶/31. 玩转 TypeScript AST：AST Checker 与 CodeMod.md",
     "typescript/ts进阶/30. 基于 Prisma + NestJs 的 Node API ：项目开发与基于 Heroku 部署.md",
-    "typescript/ts进阶/3. 进入类型的世界：理解原始类型与对象类型.md",
-    "typescript/ts进阶/29. 基于 Prisma + NestJs 的 Node API ：前置知识储备.md",
-    "typescript/ts进阶/28. TSConfig 全解（下）：检查相关、工程相关配置.md",
     "typescript/ts进阶/27. TSConfig 全解（上）：构建相关配置.md",
-    "typescript/ts进阶/26. 控制反转与依赖注入：基于装饰器的依赖注入实现.md",
+    "typescript/ts进阶/29. 基于 Prisma + NestJs 的 Node API ：前置知识储备.md",
     "typescript/ts进阶/25. 装饰器与反射元数据：了解装饰器基本原理与应用.md",
     "typescript/ts进阶/24. 说说 TypeScript 和 ECMAScript 之间那些事儿.md",
-    "typescript/ts进阶/23. 全链路 TypeScript 工具库，找到适合你的工具.md",
-    "typescript/ts进阶/22. 让 ESLint 来约束你的 TypeScript 代码：配置与规则集介绍.md",
-    "typescript/ts进阶/21. 在 React 中愉快地使用 TypeScript：内置类型与泛型坑位.md",
-    "typescript/ts进阶/20. 工程层面的类型能力：类型声明、类型指令与命名空间.md",
     "typescript/ts进阶",
-    "typescript/ts类型体操",
-    "asstes/images/Pasted image 20230317084537.png",
-    "asstes/images/Pasted image 20230317084512.png",
-    "asstes/images/Pasted image 20230317084446.png",
-    "asstes/images/Pasted image 20230317084409.png",
-    "asstes/images/Pasted image 20230317084339.png",
-    "asstes/images/Pasted image 20230317084234.png",
-    "asstes/images",
-    "asstes",
+    "typescript/TypeScript 全面进阶指南",
     "vite",
     "vue/vue3/hooks",
-    "vue/vue2",
-    "vue/vue高效开发技巧",
-    "vue",
-    "Pasted image 20230306164744.png",
     "未命名.canvas"
   ]
 }
