@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/面试题/面试相关.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/面试题/面试相关.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/面试题/面试相关.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/面试题/面试相关.md"
+                "file": "typescript/ts语法/实战技巧.md"
               }
             }
           }
@@ -231,8 +231,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a18d906289483e4d",
+  "active": "47cc227384d02dde",
   "lastOpenFiles": [
+    "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
+    "vue/面试题/面试相关.md",
+    "js手写/手写apply.md",
     "typescript/ts秘籍/images/_BumVZ582uxXRZtEWiOuUQKTQ6ycJSgteWb-o842J6E.webp",
     "typescript/ts秘籍/images/_jzWwhfxC7_pem5VSzC_LoUUWn3g3DGD7WkyKacU1m8.webp",
     "typescript/ts秘籍/images/z_48d1H-EdMilCWxplWzG4UMHHOtOPx8WiWMIzf9oY0.webp",
@@ -243,13 +246,11 @@
     "typescript/ts秘籍/images/z10NcglbgexL51EbfPJDlmjLUvSQovIlJ8bVGJJS5Aw.webp",
     "typescript/ts秘籍/images/zddvwtz4mwxEpKT3AVlxuMG0C1Z73AuurLd_F7EjifI.webp",
     "typescript/ts秘籍/images/YwSHHsc3wCY2ONuUnfrjNiynoy9i7jlx8Zt8ZZ_P5Ms.webp",
-    "typescript/ts秘籍/images/ySOS196Priw9dDTT0y8ngV1DQz-W1TLLvFIhxkkOcKw.webp",
     "typescript/ts秘籍/images",
     "typescript/ts秘籍/9 套路五：联合分散可简化.md",
     "typescript/ts秘籍/8 套路四：数组长度做计数.md",
     "typescript/ts秘籍/7 套路三：递归复用做循环.md",
     "typescript/ts秘籍/6 套路二：重新构造做变换.md",
-    "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
     "typescript/ts秘籍/4 TypeScript 类型系统支持哪些类型和类型运算？.md",
     "typescript/ts秘籍/3 TypeScript 类型编程为什么被叫做类型体操？.md",
     "typescript/ts秘籍/26 加餐：项目中 2 个真实的类型编程案例.md",
@@ -269,7 +270,6 @@
     "typescript/ts秘籍/13 真实案例说明类型编程的意义.md",
     "typescript/ts秘籍/12 TypeScript 内置的高级类型有哪些？.md",
     "typescript/ts秘籍/11 类型体操顺口溜.md",
-    "typescript/ts秘籍/10 套路六：特殊特性要记清.md",
     "typescript/ts秘籍",
     "typescript/TypeScript 类型体操通关秘籍/images",
     "typescript/TypeScript 类型体操通关秘籍",
