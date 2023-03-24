@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/vue高效开发技巧/在vue中使用jsx.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f2522fedd25202e0",
+            "id": "88cb538a381a3ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git配置.md",
+                "file": "uni-app/项目搭建.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git配置.md",
+                "file": "uni-app/项目搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git配置.md",
+                "file": "uni-app/项目搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git配置.md"
+                "file": "uni-app/项目搭建.md"
               }
             }
           }
@@ -159,19 +159,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f2522fedd25202e0",
+  "active": "88cb538a381a3ea0",
   "lastOpenFiles": [
+    "typescript/ts语法/实战技巧.md",
+    "uni-app/项目搭建.md",
+    "uni-app",
+    "vue/vue高效开发技巧/在vue中使用jsx.md",
+    "git/git配置.md",
     "asstes/images/Pasted image 20230323090917.png",
     "asstes/images/Pasted image 20230323090709.png",
     "asstes/images/Pasted image 20230323090603.png",
     "asstes/images/Pasted image 20230323090504.png",
     "asstes/images/Pasted image 20230323090329.png",
-    "vue/vue高效开发技巧/在vue中使用jsx.md",
-    "git/git配置.md",
     "git",
     "vue/面试题/面试相关.md",
     "typescript/ts秘籍/6 套路二：重新构造做变换.md",
-    "typescript/ts语法/实战技巧.md",
     "vue/vue2/watch的高级用法.md",
     "总结/js基础.md",
     "typescript/ts语法/基本语法.md",
@@ -186,7 +188,6 @@
     "typescript/ts秘籍/images/z_48d1H-EdMilCWxplWzG4UMHHOtOPx8WiWMIzf9oY0.webp",
     "typescript/ts秘籍/images/ZWfhDboK4aykjAVhXYpRknZRRc782Gte3SukKaJeQus.webp",
     "typescript/ts秘籍/images/ZsfbpzCQGB3dq_6tzbYDHsURU9HRkqSZ8SQVVOUbcCs.webp",
-    "typescript/ts秘籍/images/zqTyy4GjwyBYWpPfaJ1kz7zmWjXZp_EjSKEhnTyhbHQ.webp",
     "typescript/ts秘籍/images",
     "typescript/ts秘籍/9 套路五：联合分散可简化.md",
     "typescript/ts秘籍/8 套路四：数组长度做计数.md",
@@ -206,7 +207,6 @@
     "typescript/ts进阶",
     "typescript/ts类型体操",
     "asstes/images",
-    "asstes",
     "未命名.canvas"
   ]
 }
