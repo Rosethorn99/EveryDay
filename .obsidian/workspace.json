@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "ff8e0d236a824560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js技巧/ES6全面高级用法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8f5fd305cb3f56a0",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/vue3/Vue3开发技巧.md",
+                "file": "js技巧/ES6全面高级用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/vue3/Vue3开发技巧.md",
+                "file": "js技巧/ES6全面高级用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/vue3/Vue3开发技巧.md"
+                "file": "js技巧/ES6全面高级用法.md"
               }
             }
           }
@@ -243,10 +255,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c7de543e2d4bf41d",
+  "active": "ff8e0d236a824560",
   "lastOpenFiles": [
-    "vue/面试题/面试相关.md",
     "vue/vue3/Vue3开发技巧.md",
+    "js技巧/ES6全面高级用法.md",
+    "uni-app/项目搭建.md",
+    "uni-app",
+    "vue/面试题/面试相关.md",
     "typescript/ts秘籍/4 TypeScript 类型系统支持哪些类型和类型运算？.md",
     "typescript/ts秘籍/3 TypeScript 类型编程为什么被叫做类型体操？.md",
     "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
@@ -281,8 +296,6 @@
     "typescript/ts秘籍/2 为什么说 TypeScript 的火爆是必然？.md",
     "typescript/ts秘籍/19 原理篇：实现简易 TypeScript 类型检查.md",
     "typescript/ts秘籍/18 原理篇：编译 ts 代码用 tsc 还是 babel？.md",
-    "typescript/ts秘籍/17 原理篇：逆变、协变、双向协变、不变.md",
-    "typescript/ts秘籍/16 新语法 infer extends 是如何简化类型编程的.md",
     "typescript/ts秘籍",
     "typescript/TypeScript 类型体操通关秘籍/images",
     "typescript/TypeScript 类型体操通关秘籍",
@@ -290,7 +303,6 @@
     "typescript/ts进阶",
     "typescript/ts类型体操",
     "asstes/images",
-    "asstes",
     "未命名.canvas"
   ]
 }
