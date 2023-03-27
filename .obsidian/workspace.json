@@ -4,131 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d35e966e9cfacb84",
+        "id": "75c20c47b93fbc15",
         "type": "tabs",
         "children": [
           {
-            "id": "b94bb35cbcbbadfd",
+            "id": "087330e6a0d5526e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/面试题/面试相关.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7de543e2d4bf41d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue/vue3/Vue3开发技巧.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff8e0d236a824560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js技巧/ES6全面高级用法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f5fd305cb3f56a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js技巧/工具函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef5e72c6c35cc561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js技巧/数组技巧.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b29826bfb085df67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue/vue3/vue3常用库.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ca568cca21efbe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js技巧/工具函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "beb1fbcc98dadf16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript/ts语法/基本语法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b349dd1f206fcd3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue/vue高效开发技巧/路由参数解耦.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47cc227384d02dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript/ts语法/实战技巧.md",
+                "file": "js技巧/减少 if-else 的几个小技巧.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js技巧/ES6全面高级用法.md",
+                "file": "js技巧/减少 if-else 的几个小技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js技巧/ES6全面高级用法.md",
+                "file": "js技巧/减少 if-else 的几个小技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js技巧/ES6全面高级用法.md"
+                "file": "js技巧/减少 if-else 的几个小技巧.md"
               }
             }
           }
@@ -255,28 +146,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff8e0d236a824560",
+  "active": "087330e6a0d5526e",
   "lastOpenFiles": [
+    "uni-app/项目搭建.md",
+    "js技巧/减少 if-else 的几个小技巧.md",
     "vue/vue3/Vue3开发技巧.md",
     "js技巧/ES6全面高级用法.md",
-    "uni-app/项目搭建.md",
+    "typescript/ts语法/实战技巧.md",
     "uni-app",
-    "vue/面试题/面试相关.md",
-    "typescript/ts秘籍/4 TypeScript 类型系统支持哪些类型和类型运算？.md",
-    "typescript/ts秘籍/3 TypeScript 类型编程为什么被叫做类型体操？.md",
-    "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
-    "typescript/ts秘籍/11 类型体操顺口溜.md",
+    "vue/vue高效开发技巧/在vue中使用jsx.md",
     "git/git配置.md",
-    "git",
     "asstes/images/Pasted image 20230323090917.png",
     "asstes/images/Pasted image 20230323090709.png",
     "asstes/images/Pasted image 20230323090603.png",
     "asstes/images/Pasted image 20230323090504.png",
     "asstes/images/Pasted image 20230323090329.png",
+    "git",
+    "vue/面试题/面试相关.md",
     "typescript/ts秘籍/6 套路二：重新构造做变换.md",
+    "vue/vue2/watch的高级用法.md",
+    "总结/js基础.md",
+    "typescript/ts语法/基本语法.md",
+    "vue/vue3/vue3常用库.md",
+    "js技巧/工具函数.md",
+    "vue/vue高效开发技巧/路由参数解耦.md",
+    "vue/vue高效开发技巧/CSS样式穿透.md",
+    "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
     "js手写/手写apply.md",
-    "typescript/ts语法/实战技巧.md",
-    "typescript/ts秘籍/1 如何阅读本小册.md",
     "typescript/ts秘籍/images/_BumVZ582uxXRZtEWiOuUQKTQ6ycJSgteWb-o842J6E.webp",
     "typescript/ts秘籍/images/_jzWwhfxC7_pem5VSzC_LoUUWn3g3DGD7WkyKacU1m8.webp",
     "typescript/ts秘籍/images/z_48d1H-EdMilCWxplWzG4UMHHOtOPx8WiWMIzf9oY0.webp",
@@ -286,16 +182,11 @@
     "typescript/ts秘籍/9 套路五：联合分散可简化.md",
     "typescript/ts秘籍/8 套路四：数组长度做计数.md",
     "typescript/ts秘籍/7 套路三：递归复用做循环.md",
+    "typescript/ts秘籍/4 TypeScript 类型系统支持哪些类型和类型运算？.md",
+    "typescript/ts秘籍/3 TypeScript 类型编程为什么被叫做类型体操？.md",
     "typescript/ts秘籍/26 加餐：项目中 2 个真实的类型编程案例.md",
     "typescript/ts秘籍/25 加餐：一道 3 层的 ts 面试题.md",
     "typescript/ts秘籍/24 加餐：用 Project Reference 优化 tsc 编译性能.md",
-    "typescript/ts秘籍/23 加餐：3 种类型来源和 3 种模块语法.md",
-    "typescript/ts秘籍/22 小册总结.md",
-    "typescript/ts秘籍/21 原理篇：一些特殊情况的说明.md",
-    "typescript/ts秘籍/20 原理篇：如何阅读 TypeScript 源码.md",
-    "typescript/ts秘籍/2 为什么说 TypeScript 的火爆是必然？.md",
-    "typescript/ts秘籍/19 原理篇：实现简易 TypeScript 类型检查.md",
-    "typescript/ts秘籍/18 原理篇：编译 ts 代码用 tsc 还是 babel？.md",
     "typescript/ts秘籍",
     "typescript/TypeScript 类型体操通关秘籍/images",
     "typescript/TypeScript 类型体操通关秘籍",
