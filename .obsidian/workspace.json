@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75c20c47b93fbc15",
+        "id": "738974ea46bb9da4",
         "type": "tabs",
         "children": [
           {
-            "id": "087330e6a0d5526e",
+            "id": "d0d1c753f1fc3ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js技巧/减少 if-else 的几个小技巧.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js技巧/减少 if-else 的几个小技巧.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js技巧/减少 if-else 的几个小技巧.md",
+                "file": "typescript/ts语法/实战技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js技巧/减少 if-else 的几个小技巧.md"
+                "file": "typescript/ts语法/实战技巧.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "087330e6a0d5526e",
+  "active": "d0d1c753f1fc3ed4",
   "lastOpenFiles": [
-    "uni-app/项目搭建.md",
+    "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
     "js技巧/减少 if-else 的几个小技巧.md",
+    "uni-app/项目搭建.md",
     "vue/vue3/Vue3开发技巧.md",
     "js技巧/ES6全面高级用法.md",
     "typescript/ts语法/实战技巧.md",
@@ -171,7 +172,6 @@
     "js技巧/工具函数.md",
     "vue/vue高效开发技巧/路由参数解耦.md",
     "vue/vue高效开发技巧/CSS样式穿透.md",
-    "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
     "js手写/手写apply.md",
     "typescript/ts秘籍/images/_BumVZ582uxXRZtEWiOuUQKTQ6ycJSgteWb-o842J6E.webp",
     "typescript/ts秘籍/images/_jzWwhfxC7_pem5VSzC_LoUUWn3g3DGD7WkyKacU1m8.webp",
