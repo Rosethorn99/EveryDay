@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/ts语法/实战技巧.md",
+                "file": "js技巧/工具函数.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7ab8263287262a7",
+            "id": "8fa793b114643bef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/面试题/Vue3.0新特性.md",
+                "file": "js手写/手写数组转树.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/面试题/Vue3.0新特性.md",
+                "file": "js手写/手写数组转树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/面试题/Vue3.0新特性.md",
+                "file": "js手写/手写数组转树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/面试题/Vue3.0新特性.md"
+                "file": "js手写/手写数组转树.md"
               }
             }
           }
@@ -159,11 +159,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7ab8263287262a7",
+  "active": "8fa793b114643bef",
   "lastOpenFiles": [
-    "typescript/ts语法/实战技巧.md",
-    "vue/面试题/Vue3.0新特性.md",
+    "js技巧/工具函数.md",
+    "js手写/手写数组转树.md",
+    "开发工具/fnm安装.md",
+    "typescript/ts语法/基本语法.md",
+    "typescript/ts秘籍/6 套路二：重新构造做变换.md",
     "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
+    "typescript/ts语法/实战技巧.md",
+    "2023-03-27.md",
+    "vue/面试题/Vue3.0新特性.md",
+    "总结/js基础.md",
+    "vue/面试题/Vue中组件间通信的方式.md",
     "js技巧/减少 if-else 的几个小技巧.md",
     "uni-app/项目搭建.md",
     "vue/vue3/Vue3开发技巧.md",
@@ -178,12 +186,8 @@
     "asstes/images/Pasted image 20230323090329.png",
     "git",
     "vue/面试题/面试相关.md",
-    "typescript/ts秘籍/6 套路二：重新构造做变换.md",
     "vue/vue2/watch的高级用法.md",
-    "总结/js基础.md",
-    "typescript/ts语法/基本语法.md",
     "vue/vue3/vue3常用库.md",
-    "js技巧/工具函数.md",
     "vue/vue高效开发技巧/路由参数解耦.md",
     "vue/vue高效开发技巧/CSS样式穿透.md",
     "js手写/手写apply.md",
@@ -196,10 +200,6 @@
     "typescript/ts秘籍/9 套路五：联合分散可简化.md",
     "typescript/ts秘籍/8 套路四：数组长度做计数.md",
     "typescript/ts秘籍/7 套路三：递归复用做循环.md",
-    "typescript/ts秘籍/4 TypeScript 类型系统支持哪些类型和类型运算？.md",
-    "typescript/ts秘籍/3 TypeScript 类型编程为什么被叫做类型体操？.md",
-    "typescript/ts秘籍/26 加餐：项目中 2 个真实的类型编程案例.md",
-    "typescript/ts秘籍/25 加餐：一道 3 层的 ts 面试题.md",
     "typescript/ts秘籍",
     "typescript/TypeScript 类型体操通关秘籍/images",
     "typescript/TypeScript 类型体操通关秘籍",
