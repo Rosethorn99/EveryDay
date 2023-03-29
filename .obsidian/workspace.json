@@ -4,11 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "738974ea46bb9da4",
+        "id": "d35e966e9cfacb84",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d1c753f1fc3ed4",
+            "id": "b94bb35cbcbbadfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/面试题/面试相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7de543e2d4bf41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/vue3/Vue3开发技巧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff8e0d236a824560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd31bdf56b6200e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git取消本地上一次提交.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f5fd305cb3f56a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +68,79 @@
             }
           },
           {
-            "id": "8fa793b114643bef",
+            "id": "ef5e72c6c35cc561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js手写/手写数组转树.md",
+                "file": "js技巧/数组技巧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b29826bfb085df67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/vue3/vue3常用库.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ca568cca21efbe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js技巧/工具函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beb1fbcc98dadf16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/ts语法/基本语法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b349dd1f206fcd3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/vue高效开发技巧/路由参数解耦.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47cc227384d02dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/ts语法/实战技巧.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js手写/手写数组转树.md",
+                "file": "git/git取消本地上一次提交.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js手写/手写数组转树.md",
+                "file": "git/git取消本地上一次提交.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js手写/手写数组转树.md"
+                "file": "git/git取消本地上一次提交.md"
               }
             }
           }
@@ -159,47 +267,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8fa793b114643bef",
+  "active": "cd31bdf56b6200e6",
   "lastOpenFiles": [
-    "js技巧/工具函数.md",
-    "js手写/手写数组转树.md",
-    "开发工具/fnm安装.md",
-    "typescript/ts语法/基本语法.md",
-    "typescript/ts秘籍/6 套路二：重新构造做变换.md",
-    "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
-    "typescript/ts语法/实战技巧.md",
-    "2023-03-27.md",
-    "vue/面试题/Vue3.0新特性.md",
-    "总结/js基础.md",
-    "vue/面试题/Vue中组件间通信的方式.md",
-    "js技巧/减少 if-else 的几个小技巧.md",
-    "uni-app/项目搭建.md",
-    "vue/vue3/Vue3开发技巧.md",
-    "js技巧/ES6全面高级用法.md",
-    "uni-app",
-    "vue/vue高效开发技巧/在vue中使用jsx.md",
+    "asstes/images/Pasted image 20230329214637.png",
+    "asstes/images/Pasted image 20230329213616.png",
+    "asstes/images/Pasted image 20230329213554.png",
+    "asstes/images/Pasted image 20230329213336.png",
     "git/git配置.md",
+    "git/git取消本地上一次提交.md",
+    "vue/面试题/Vue中组件间通信的方式.md",
+    "vue/面试题/Vue3.0新特性.md",
+    "js技巧/减少 if-else 的几个小技巧.md",
+    "js手写/手写数组转树.md",
+    "js技巧/ES6全面高级用法.md",
+    "vue/vue3/Vue3开发技巧.md",
+    "uni-app/项目搭建.md",
+    "uni-app",
+    "vue/面试题/面试相关.md",
+    "typescript/ts秘籍/4 TypeScript 类型系统支持哪些类型和类型运算？.md",
+    "typescript/ts秘籍/3 TypeScript 类型编程为什么被叫做类型体操？.md",
+    "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
+    "typescript/ts秘籍/11 类型体操顺口溜.md",
+    "git",
     "asstes/images/Pasted image 20230323090917.png",
     "asstes/images/Pasted image 20230323090709.png",
     "asstes/images/Pasted image 20230323090603.png",
     "asstes/images/Pasted image 20230323090504.png",
     "asstes/images/Pasted image 20230323090329.png",
-    "git",
-    "vue/面试题/面试相关.md",
-    "vue/vue2/watch的高级用法.md",
-    "vue/vue3/vue3常用库.md",
-    "vue/vue高效开发技巧/路由参数解耦.md",
-    "vue/vue高效开发技巧/CSS样式穿透.md",
+    "typescript/ts秘籍/6 套路二：重新构造做变换.md",
     "js手写/手写apply.md",
+    "typescript/ts语法/实战技巧.md",
+    "typescript/ts秘籍/1 如何阅读本小册.md",
     "typescript/ts秘籍/images/_BumVZ582uxXRZtEWiOuUQKTQ6ycJSgteWb-o842J6E.webp",
     "typescript/ts秘籍/images/_jzWwhfxC7_pem5VSzC_LoUUWn3g3DGD7WkyKacU1m8.webp",
-    "typescript/ts秘籍/images/z_48d1H-EdMilCWxplWzG4UMHHOtOPx8WiWMIzf9oY0.webp",
-    "typescript/ts秘籍/images/ZWfhDboK4aykjAVhXYpRknZRRc782Gte3SukKaJeQus.webp",
-    "typescript/ts秘籍/images/ZsfbpzCQGB3dq_6tzbYDHsURU9HRkqSZ8SQVVOUbcCs.webp",
     "typescript/ts秘籍/images",
     "typescript/ts秘籍/9 套路五：联合分散可简化.md",
     "typescript/ts秘籍/8 套路四：数组长度做计数.md",
     "typescript/ts秘籍/7 套路三：递归复用做循环.md",
+    "typescript/ts秘籍/26 加餐：项目中 2 个真实的类型编程案例.md",
+    "typescript/ts秘籍/25 加餐：一道 3 层的 ts 面试题.md",
+    "typescript/ts秘籍/24 加餐：用 Project Reference 优化 tsc 编译性能.md",
+    "typescript/ts秘籍/23 加餐：3 种类型来源和 3 种模块语法.md",
     "typescript/ts秘籍",
     "typescript/TypeScript 类型体操通关秘籍/images",
     "typescript/TypeScript 类型体操通关秘籍",
