@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b61594da1b7dcf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/通用插件/vue2使用xlsx完成表格导入导出.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/面试题/Vue 常见面试题总结.md",
+                "file": "vue/通用插件/vue2使用xlsx完成表格导入导出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/面试题/Vue 常见面试题总结.md",
+                "file": "vue/通用插件/vue2使用xlsx完成表格导入导出.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/面试题/Vue 常见面试题总结.md"
+                "file": "vue/通用插件/vue2使用xlsx完成表格导入导出.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1a492d516e0a0fc3",
+  "active": "4b61594da1b7dcf9",
   "lastOpenFiles": [
     "vue/面试题/Vue 常见面试题总结.md",
+    "vue/通用插件/vue2使用xlsx完成表格导入导出.md",
+    "vue/通用插件",
     "vue/面试题/面试相关.md",
     "js技巧/工具函数.md",
     "git/git取消本地上一次提交.md",
@@ -184,7 +199,6 @@
     "vue/vue3/vue3常用库.md",
     "vue/vue高效开发技巧/路由参数解耦.md",
     "vue/vue高效开发技巧/CSS样式穿透.md",
-    "js手写/手写apply.md",
     "typescript/ts秘籍/images/_BumVZ582uxXRZtEWiOuUQKTQ6ycJSgteWb-o842J6E.webp",
     "typescript/ts秘籍/images",
     "typescript/ts秘籍",
@@ -193,7 +207,6 @@
     "vue/面试题",
     "typescript/ts进阶",
     "typescript/ts类型体操",
-    "asstes/images",
     "未命名.canvas"
   ]
 }
