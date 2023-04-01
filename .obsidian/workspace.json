@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js技巧/Reflect详谈.md",
+                "file": "vue/面试题/面试相关.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js技巧/Reflect详谈.md",
+                "file": "vue/面试题/面试相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js技巧/Reflect详谈.md",
+                "file": "vue/面试题/面试相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js技巧/Reflect详谈.md"
+                "file": "vue/面试题/面试相关.md"
               }
             }
           }
@@ -281,8 +281,8 @@
   },
   "active": "6562e3bd4fe8571e",
   "lastOpenFiles": [
-    "js技巧/数组技巧.md",
     "js技巧/Reflect详谈.md",
+    "js技巧/数组技巧.md",
     "js技巧/减少 if-else 的几个小技巧.md",
     "js技巧/工具函数.md",
     "git/git取消本地上一次提交.md",
