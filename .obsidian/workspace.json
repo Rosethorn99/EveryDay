@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8f5d6169a990cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim/4. vim下有效率得处理字符.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/windows 键盘映射.md",
+                "file": "vim/4. vim下有效率得处理字符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows/windows 键盘映射.md",
+                "file": "vim/4. vim下有效率得处理字符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/windows 键盘映射.md"
+                "file": "vim/4. vim下有效率得处理字符.md"
               }
             }
           }
@@ -183,11 +195,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "959afd33d0fccc6e",
+  "active": "f8f5d6169a990cc2",
   "lastOpenFiles": [
-    "vim/2. vim移动,插入,复制,粘贴命令.md",
-    "windows/windows 键盘映射.md",
+    "asstes/images/Pasted image 20230408192140.png",
     "vim/3. vim组合键, 基本语法.md",
+    "vim/4. vim下有效率得处理字符.md",
+    "windows/windows 键盘映射.md",
+    "vim/2. vim移动,插入,复制,粘贴命令.md",
     "asstes/images/Pasted image 20230407222010.png",
     "asstes/images/Pasted image 20230406150609.png",
     "vim/1. vim基本用法.md",
@@ -225,8 +239,6 @@
     "uni-app",
     "typescript/ts秘籍/4 TypeScript 类型系统支持哪些类型和类型运算？.md",
     "typescript/ts秘籍/3 TypeScript 类型编程为什么被叫做类型体操？.md",
-    "typescript/ts秘籍/5 套路一：模式匹配做提取.md",
-    "typescript/ts秘籍/11 类型体操顺口溜.md",
     "git",
     "typescript/ts秘籍/images",
     "typescript/ts秘籍",
