@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim/3. vim组合键, 基本语法.md",
+                "file": "vim/2. vim移动,插入,复制,粘贴命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "959afd33d0fccc6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "windows/windows 键盘映射.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim/3. vim组合键, 基本语法.md",
+                "file": "windows/windows 键盘映射.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vim/3. vim组合键, 基本语法.md",
+                "file": "windows/windows 键盘映射.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vim/3. vim组合键, 基本语法.md"
+                "file": "windows/windows 键盘映射.md"
               }
             }
           }
@@ -171,11 +183,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e68edde02522602",
+  "active": "959afd33d0fccc6e",
   "lastOpenFiles": [
-    "asstes/images/Pasted image 20230407222010.png",
     "vim/2. vim移动,插入,复制,粘贴命令.md",
+    "windows/windows 键盘映射.md",
     "vim/3. vim组合键, 基本语法.md",
+    "asstes/images/Pasted image 20230407222010.png",
     "asstes/images/Pasted image 20230406150609.png",
     "vim/1. vim基本用法.md",
     "asstes/images/Pasted image 20230406150224.png",
@@ -193,7 +206,6 @@
     "asstes/images/Pasted image 20230404144055.png",
     "asstes/images/Pasted image 20230404143909.png",
     "asstes/images/Pasted image 20230404143724.png",
-    "asstes/images/Pasted image 20230404143556.png",
     "css/TailwindCSS的使用.md",
     "css",
     "windows",
