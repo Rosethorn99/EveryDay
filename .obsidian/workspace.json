@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim/9. vim高效移动, 想去哪就去哪.md",
+                "file": "vim/vim 常用语法总结.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim/9. vim高效移动, 想去哪就去哪.md",
+                "file": "vim/vim 常用语法总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vim/9. vim高效移动, 想去哪就去哪.md",
+                "file": "vim/vim 常用语法总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vim/9. vim高效移动, 想去哪就去哪.md"
+                "file": "vim/vim 常用语法总结.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "c82e7485aa9ea25f",
   "lastOpenFiles": [
+    "vim/9. vim高效移动, 想去哪就去哪.md",
+    "vim/vim 常用语法总结.md",
     "asstes/images/Pasted image 20230411081450.png",
     "Pasted image 20230410224737.png.md",
-    "vim/9. vim高效移动, 想去哪就去哪.md",
     "vim/8. vim搜索.md",
-    "vim/vim 常用语法总结.md",
     "asstes/images/Pasted image 20230410152050.png",
     "vim/6. vim下文本对象.md",
     "vim/5. vim下可视化模式.md",
@@ -172,7 +172,6 @@
     "asstes/images/Pasted image 20230406150609.png",
     "asstes/images/Pasted image 20230406150224.png",
     "asstes/images/Pasted image 20230404144705.png",
-    "asstes/images/Pasted image 20230404144439.png",
     "github",
     "js技巧/ES6全面高级用法.md",
     "css/TailwindCSS的使用.md",
