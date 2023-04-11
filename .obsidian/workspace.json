@@ -4,119 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "268f86a36cc54a17",
+        "id": "fc566d536f3cee78",
         "type": "tabs",
         "children": [
           {
-            "id": "a64eb4637d19fd4d",
+            "id": "c82e7485aa9ea25f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js技巧/数组技巧.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb1a1b6662f150b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim/2. vim移动,插入,复制,粘贴命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e68edde02522602",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim/2. vim移动,插入,复制,粘贴命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "959afd33d0fccc6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "windows/windows 键盘映射.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8f5d6169a990cc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim/6. vim下文本对象.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "705d9fb128d2da48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim/vim 常用语法总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "940a4f58be353f2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim/7. vim在文件中快速移动.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c393290f99b5f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim/5. vim下可视化模式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7302e5aca5bd14f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "typescript/ts语法/实战技巧.md",
+                "file": "vim/9. vim高效移动, 想去哪就去哪.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim/vim 常用语法总结.md",
+                "file": "vim/9. vim高效移动, 想去哪就去哪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vim/vim 常用语法总结.md",
+                "file": "vim/9. vim高效移动, 想去哪就去哪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vim/vim 常用语法总结.md"
+                "file": "vim/9. vim高效移动, 想去哪就去哪.md"
               }
             }
           }
@@ -243,54 +146,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "705d9fb128d2da48",
+  "active": "c82e7485aa9ea25f",
   "lastOpenFiles": [
+    "asstes/images/Pasted image 20230411081450.png",
+    "Pasted image 20230410224737.png.md",
+    "vim/9. vim高效移动, 想去哪就去哪.md",
+    "vim/8. vim搜索.md",
+    "vim/vim 常用语法总结.md",
+    "asstes/images/Pasted image 20230410152050.png",
+    "vim/6. vim下文本对象.md",
+    "vim/5. vim下可视化模式.md",
+    "github/git actions配置使用.md",
+    "windows/windows 键盘映射.md",
+    "vim/7. vim在文件中快速移动.md",
+    "vim/4. vim下有效率得处理字符.md",
+    "vim/3. vim组合键, 基本语法.md",
     "vim/2. vim移动,插入,复制,粘贴命令.md",
     "vim/1. vim基本用法.md",
-    "vim/vim 常用语法总结.md",
-    "vim/4. vim下有效率得处理字符.md",
-    "vim/5. vim下可视化模式.md",
-    "vim/7. vim在文件中快速移动.md",
-    "vim/6. vim下文本对象.md",
-    "vim/3. vim组合键, 基本语法.md",
+    "vim",
     "asstes/images/Pasted image 20230409183843.png",
-    "typescript/ts语法/实战技巧.md",
-    "typescript/ts语法/基本语法.md",
     "asstes/images/Pasted image 20230408192825.png",
     "asstes/images/Pasted image 20230408192533.png",
     "asstes/images/Pasted image 20230408192140.png",
-    "windows/windows 键盘映射.md",
     "asstes/images/Pasted image 20230407222010.png",
     "asstes/images/Pasted image 20230406150609.png",
     "asstes/images/Pasted image 20230406150224.png",
-    "js技巧/数组技巧.md",
-    "vim",
-    "js技巧/工具函数.md",
-    "vue/面试题/面试相关.md",
-    "windows/windows caplock和ctrl键位互换.md",
-    "github/git actions配置使用.md",
-    "github",
     "asstes/images/Pasted image 20230404144705.png",
     "asstes/images/Pasted image 20230404144439.png",
-    "asstes/images/Pasted image 20230404144300.png",
+    "github",
+    "js技巧/ES6全面高级用法.md",
     "css/TailwindCSS的使用.md",
-    "css",
+    "windows/windows caplock和ctrl键位互换.md",
+    "vue/面试题/面试相关.md",
     "windows",
     "js技巧/Reflect详谈.md",
+    "js技巧/数组技巧.md",
     "js技巧/减少 if-else 的几个小技巧.md",
+    "js技巧/工具函数.md",
     "git/git取消本地上一次提交.md",
     "vue/面试题/Vue 常见面试题总结.md",
     "vue/通用插件/vue2使用xlsx完成表格导入导出.md",
     "vue/通用插件",
     "git/git配置.md",
-    "vue/面试题/Vue中组件间通信的方式.md",
-    "vue/面试题/Vue3.0新特性.md",
-    "js手写/手写数组转树.md",
     "uni-app",
     "git",
     "typescript/ts秘籍/images",
     "typescript/ts秘籍",
     "typescript/TypeScript 类型体操通关秘籍/images",
+    "typescript/TypeScript 类型体操通关秘籍",
     "未命名.canvas"
   ]
 }
